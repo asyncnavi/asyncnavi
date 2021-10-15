@@ -4,7 +4,7 @@ I am a 17 years old high school student and also working as a freelance full-sta
 
 ```
     FRAMEWORKS AND LIBRARIES : 
-    React, NextJS, Django, DjangoRESTFramework, Material UI, Chakra-UI, Boostrap, Antd, Redux, React-Query  
+    React, NextJS, Django, DjangoRESTFramework, Material UI, Chakra-UI, Boostrap, AntD, Redux, React-Query  
     
     LANGUAGES :
     HTML, CSS, Javscritpt, Typescript, Python, C++.
