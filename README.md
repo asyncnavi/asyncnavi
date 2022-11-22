@@ -1,6 +1,6 @@
 ## Hi there 👋.
 
-I am a 18 years old student and also working as a freelance full-stack developer.
+I am a 18 years old student Front-End Developer.
 
 ```
     FRAMEWORKS AND LIBRARIES : 
