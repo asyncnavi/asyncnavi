@@ -1,6 +1,6 @@
 ## Hi there 👋.
 
-I am a 18 years old student Front-End Developer.
+Front-End Developer / CS student.
 
 ```
     FRAMEWORKS AND LIBRARIES : 
