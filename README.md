@@ -4,13 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front End Developer / CS
 ------------------------
 
+```
 I love making fun, interactive things with code. I also write about those things.
 
 * 🌍  I'm based in Punjab, India
 * ✉️  You can contact me at [asyncnavi@gmail.com](mailto:asyncnavi@gmail.com)
 * 🧠  I'm learning Data Structures and Algorithams
 
-
+```
 
 ### Skills
 
@@ -35,18 +36,6 @@ I love making fun, interactive things with code. I also write about those things
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 
-
-```
-    FRAMEWORKS AND LIBRARIES : 
-    React, NextJS, Django, DjangoRESTFramework, Material UI, Chakra-UI, Boostrap, AntD, Redux, React-Query  
-    
-    LANGUAGES :
-    HTML, CSS, Javscritpt, Typescript, Python, C++.
-    
-    COURSEWORK :
-    Data structures and Algorithams, OOP.
-    
-```
 
 
 ### Socials
