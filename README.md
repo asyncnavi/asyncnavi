@@ -13,6 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asyncnavi&show_icons=true&locale=en&layout=compact" alt="asyncnavi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asyncnavi&show_icons=true&locale=en" alt="asyncnavi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asyncnavi&" alt="asyncnavi" /></p>
