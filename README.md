@@ -1,5 +1,5 @@
 # Hi 👋, I'm Navraj
-🧑🏻‍💻 Front end developer<br>👨🏻‍🎓 Computer Applications'25 @Chandigarh University<br>🗺️ India<br><br>
+🧑🏻‍💻 Front end developer. <br>👨🏻‍🎓 Computer Applications'25 @Chandigarh University<br>🗺️ India<br><br>
 
 ## Connect me :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navraj-sandhu-557aa91bb) 
