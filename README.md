@@ -11,6 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=asyncnavi&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![](https://github-profile-trophy.vercel.app/?username=asyncnavi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=asyncnavi)](https://github.com/asyncnavi/github-profile-trophy)
 
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gruvbox)
 
