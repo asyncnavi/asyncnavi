@@ -1,5 +1,5 @@
-![Black Technology LinkedIn Banner](https://github.com/asyncnavi/asyncnavi/assets/77402227/b1cf7f6c-3ea6-4569-a9c9-3d93d63f5761)
 
+![Yellow Monochrome Photo LinkedIn Banner](https://github.com/asyncnavi/asyncnavi/assets/77402227/c64a6cca-b223-444c-90aa-164259993ed0)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/navraj-sandhu-557aa91bb) 
 #
