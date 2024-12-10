@@ -1,3 +1,5 @@
-#### Hey,  I am navraj. 
-A web developer working on various Javascript & Web based techonologies and Golang.
-And I love to talk and write about these techonoligies.
+```
+  👋 Hey, I am navraj.
+
+  I am a web developer working on various Javascript and Web Based techonoligies and Golang. 
+```
