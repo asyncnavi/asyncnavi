@@ -2,7 +2,7 @@
   👋 Hey, I am navraj.
 
   I am a web developer working on various Javascript/Typescript and Web Based techonoligies and Golang.
-  Currenty working at Burpy. 
+  Currenty working at Burpy AI. 
 ```
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=asyncnavi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
