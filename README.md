@@ -1,7 +1,7 @@
 ```
 👋 Hey, I'm Navraj.  
 ---
-Web developer working with JavaScript, modern web technologies, and Golang.  
-Currently building at Haanaa.
+Working with JavaScript,Golang and modern web technologies.  
+Currently building at Vision11.
 ---
 ```
