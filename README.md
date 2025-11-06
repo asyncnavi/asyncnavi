@@ -1,3 +1,3 @@
 ```
-I build 👷‍♂️ . I break ꝇ . I fix ⚙️ .
+build -> break -> fix .
 ```
